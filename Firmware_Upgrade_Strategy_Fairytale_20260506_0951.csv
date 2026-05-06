@@ -1,4 +1,0 @@
-"HostName";"Device";"CommonFirmware";"UpgradeNeeded";"BCL_Link"
-"esx01.test.wesleygeelhoed.local";"CPU: Intel(R) Xeon(R) CPU D-1518 @ 2.20GHz";"N/A (CPU Check)";"No - CPU is Supported";"https://compatibilityguide.broadcom.com/detail?program=cpu&productId=171&persona=live"
-"esx01.test.wesleygeelhoed.local";"PVSCSI SCSI Controller";"NO OVERLAP FOUND";"Yes - Firmware change required";"N/A"
-"esx01.test.wesleygeelhoed.local";"vmxnet3 Virtual Ethernet Controller";"NO OVERLAP FOUND";"Yes - Firmware change required";"N/A"

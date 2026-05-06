@@ -1,0 +1,7 @@
+"HostName";"ESXiVersion";"Device";"DriverName";"DriverVersion";"Firmware";"BCL_Link"
+"esx01.test.wesleygeelhoed.local";"8.0 U3";"CPU: Intel(R) Xeon(R) CPU D-1518 @ 2.20GHz";"SUPPORTED";"N/A";"N/A";"https://compatibilityguide.broadcom.com/detail?program=cpu&productId=171&persona=live"
+"esx01.test.wesleygeelhoed.local";"9.0";"CPU: Intel(R) Xeon(R) CPU D-1518 @ 2.20GHz";"SUPPORTED";"N/A";"N/A";"https://compatibilityguide.broadcom.com/detail?program=cpu&productId=171&persona=live"
+"esx01.test.wesleygeelhoed.local";"8.0 U3";"vmxnet3 Virtual Ethernet Controller";"--- NOT SUPPORTED ---";"N/A";"N/A";"N/A"
+"esx01.test.wesleygeelhoed.local";"9.0";"vmxnet3 Virtual Ethernet Controller";"--- NOT SUPPORTED ---";"N/A";"N/A";"N/A"
+"esx01.test.wesleygeelhoed.local";"8.0 U3";"PVSCSI SCSI Controller";"--- NOT SUPPORTED ---";"N/A";"N/A";"N/A"
+"esx01.test.wesleygeelhoed.local";"9.0";"PVSCSI SCSI Controller";"--- NOT SUPPORTED ---";"N/A";"N/A";"N/A"

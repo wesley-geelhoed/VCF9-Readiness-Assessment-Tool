@@ -155,7 +155,8 @@ function Export-FirmwareOverlapReport {
 }
 
 # --- MAIN EXECUTION ---
-Connect-VIServer -Server "XXXXX"
+$vcenter = Read-Host 'Enter vCenter FQDN'
+Connect-VIServer -Server $vcenter
 
 Write-Host "Ophalen VCG CPU Masterlijst..." -ForegroundColor Gray
 $CpuBodyObj = @{ programId = "cpu"; filters = @(); keyword = @(); date = @{ startDate = $null; endDate = $null } } | ConvertTo-Json
